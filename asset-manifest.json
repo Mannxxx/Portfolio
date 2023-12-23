@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a1a09b32.css",
+    "main.js": "/Portfolio/static/js/main.b4dee5e4.js",
+    "static/js/651.266d86e8.chunk.js": "/Portfolio/static/js/651.266d86e8.chunk.js",
+    "static/media/buddy.png": "/Portfolio/static/media/buddy.bbac1ba0de9088f15524.png",
+    "static/media/startpage.gif": "/Portfolio/static/media/startpage.529d60493be3ffae15bb.gif",
+    "static/media/logo.jpg": "/Portfolio/static/media/logo.7591cdb81582046ee0b8.jpg",
+    "static/media/MansiCV_offCampus.pdf": "/Portfolio/static/media/MansiCV_offCampus.cdef5bd4d4e0a54a825e.pdf",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/olympic.png": "/Portfolio/static/media/olympic.64438c4918bf796c9a56.png",
+    "static/media/coinfun.jpg": "/Portfolio/static/media/coinfun.d9070bae42994b2d562c.jpg",
+    "static/media/covid.jpg": "/Portfolio/static/media/covid.ecfb82ab28734a5e9c65.jpg",
+    "static/media/event.jpg": "/Portfolio/static/media/event.66098995958275782508.jpg",
+    "static/media/blood.jpg": "/Portfolio/static/media/blood.6f82ab120b84f8642098.jpg",
+    "static/media/exigency.jpg": "/Portfolio/static/media/exigency.7d5b478967c283f0e607.jpg",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/movie.jpg": "/Portfolio/static/media/movie.bb562ffcc210b515622a.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.a1a09b32.css.map": "/Portfolio/static/css/main.a1a09b32.css.map",
+    "main.b4dee5e4.js.map": "/Portfolio/static/js/main.b4dee5e4.js.map",
+    "651.266d86e8.chunk.js.map": "/Portfolio/static/js/651.266d86e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a09b32.css",
+    "static/js/main.b4dee5e4.js"
+  ]
+}
